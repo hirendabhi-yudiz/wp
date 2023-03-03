@@ -1,0 +1,12 @@
+/wp-config.*
+**/.DS_Store
+/.htaccess
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+.idea
